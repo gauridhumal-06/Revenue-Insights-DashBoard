@@ -50,4 +50,6 @@ Occupancy rate is highest at Delhi with 60+ % for all months though generates le
 
 ### 6.	Screenshots <br>
 Show what the dashboard looks like.<br>
-![Dashboard Preview]((https://github.com/gauridhumal-06/Revenue-Insights-DashBoard/blob/main/Hospitality_Dashboard.jpeg](https://github.com/gauridhumal-06/Revenue-Insights-DashBoard/blob/main/Hospitality_Dashboard.jpeg))
+## Dashboard Preview
+
+![Dashboard Preview](https://raw.githubusercontent.com/gauridhumal-06/Revenue-Insights-DashBoard/main/Hospitality_Dashboard.jpeg)
