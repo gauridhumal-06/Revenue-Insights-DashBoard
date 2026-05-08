@@ -48,6 +48,6 @@ Avg rating varies between 3.4 to 3.8 across cities and avg stay duration is 2.4 
 Occupancy rate is highest at Delhi with 60+ % for all months though generates least revenue compared to other cities. Identify the reason for higher occupancy and use that to drive the revenue growth.<br>
 
 
-### 6.	Screenshots / Demos<br>
+### 6.	Screenshots <br>
 Show what the dashboard looks like.<br>
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Example: ![Dashboard Preview]( https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/gauridhumal-06/Revenue-Insights-DashBoard/blob/main/Hospitality_Dashboard.jpeg )
