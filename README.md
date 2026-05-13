@@ -2,14 +2,14 @@
 
 ### Atliq-Hospitality Analysis
 
-### 2.Purpose
+### Purpose
 AtliQ is a company that owns multiple hotel chains across various cities of India
 The Managing director / CEO of AtliQ wants to incorporate ‘Business and Data Intelligence’ to identify and track the source of revenue for AtliQ hotels
 Hence, it is decided to develop a KPI Dashboard for AtliQ, using May-22 to July-22 data, which can help track its revenue sources and other relevant KPIs across various dimensions
 It’ll help the management take strategic business decisions based on the insights generated from the dashboard.
 
 
-### 3.	Tech Stack
+### Tech Stack
 The dashboard was built using the following tools and technologies:<br>
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
 •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
@@ -17,10 +17,10 @@ The dashboard was built using the following tools and technologies:<br>
 •	📝 Data Modeling – Relationships established among tables to enable cross-filtering and aggregation.<br>
 •	📁 File Format – .pbix for development and .jpeg for dashboard previews.
 
-### 4.	Data Source
+### Data Source
 Source: Sourced From CodeBasics
 
-### 5.	Features / Highlights
+### Features / Highlights
 •	Business Problem
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
 
@@ -48,7 +48,7 @@ Avg rating varies between 3.4 to 3.8 across cities and avg stay duration is 2.4 
 Occupancy rate is highest at Delhi with 60+ % for all months though generates least revenue compared to other cities. Identify the reason for higher occupancy and use that to drive the revenue growth.<br>
 
 
-### 6.	Screenshots <br>
+### Screenshots <br>
 Show what the dashboard looks like.<br>
 ## Dashboard Preview
 
