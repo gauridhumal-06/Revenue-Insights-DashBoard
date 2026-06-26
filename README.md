@@ -48,8 +48,6 @@ Avg rating varies between 3.4 to 3.8 across cities and avg stay duration is 2.4 
 Occupancy rate is highest at Delhi with 60+ % for all months though generates least revenue compared to other cities. Identify the reason for higher occupancy and use that to drive the revenue growth.<br>
 Avg rating is one of the main factor for the revenue as the hotels with least avg rating is also generating least revenue
 
-### Screenshots <br>
-Show what the dashboard looks like.<br>
 ## Dashboard Preview
 
 ![Dashboard Preview](https://raw.githubusercontent.com/gauridhumal-06/Revenue-Insights-DashBoard/main/Hospitality_Dashboard.jpeg)
