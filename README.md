@@ -43,10 +43,10 @@ A few measures were created to measure the KPIs as shown below:<br>
 Mumbai generates highest revenue and Delhi the least revenue during May to Jul 2022<br>
 Company need to focus on increasing the revenue in Delhi.<br>
 The occupancy rate is higher during weekends across all cities, months and booking platforms.<br> Leverage this insight to increase revenue generated during weekends.<br>
-70% of the bookings are checked out while 5% of booking don’t show up across all cities and booking platforms which means 75% of bookings generate revenue for AtliQ hotels. Identify and analyze the reasons for cancellations and try to reduce them.<br>
+24% Cancellation rate identify and analyze the reasons for cancellations and try to reduce them.<br>
 Avg rating varies between 3.4 to 3.8 across cities and avg stay duration is 2.4 for each booking. Compare it with the industry benchmark across cities and evaluate the performance.<br>
 Occupancy rate is highest at Delhi with 60+ % for all months though generates least revenue compared to other cities. Identify the reason for higher occupancy and use that to drive the revenue growth.<br>
-
+Avg rating is one of the main factor for the revenue as the hotels with least avg rating is also generating least revenue
 
 ### Screenshots <br>
 Show what the dashboard looks like.<br>
